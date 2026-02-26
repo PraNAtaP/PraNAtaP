@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/pranatap/" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://www.instagram.com/naprana_/" width="37" height="25" alt="instagram logo"  />
-  <img src="https://discord.com/users/453232505865109506" width="37" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/pranatap/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/naprana_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/453232505865109506" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
   <a href="mailto:pranatapu08@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
