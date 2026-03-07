@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" height="325" alt="Banner Ngoding" />
+  <img src="banner.gif" height="400" alt="Banner Ngoding" />
 </div>
 
 ###
